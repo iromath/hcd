@@ -12,7 +12,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/james-ray/hcd/hcjson"
+	"github.com/iromath/hcd/hcjson"
 )
 
 // helpDescsEnUS defines the English descriptions used for the help strings.
