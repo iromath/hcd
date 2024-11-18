@@ -17,7 +17,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/james-ray/hcd/hcutil"
+	"github.com/iromath/hcd/hcutil"
 	flags "github.com/jessevdk/go-flags"
 )
 
