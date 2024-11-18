@@ -11,11 +11,11 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/james-ray/hcd/chaincfg"
-	"github.com/james-ray/hcd/database"
-	_ "github.com/james-ray/hcd/database/ffldb"
-	"github.com/james-ray/hcd/hcutil"
-	"github.com/james-ray/hcd/wire"
+	"github.com/iromath/hcd/chaincfg"
+	"github.com/iromath/hcd/database"
+	_ "github.com/iromath/hcd/database/ffldb"
+	"github.com/iromath/hcd/hcutil"
+	"github.com/iromath/hcd/wire"
 )
 
 // This example demonstrates creating a new database.
@@ -42,8 +42,8 @@ func ExampleCreate() {
 //
 // import (
 //
-//	"github.com/james-ray/hcd/database2"
-//	_ "github.com/james-ray/hcd/database/ffldb"
+//	"github.com/iromath/hcd/database2"
+//	_ "github.com/iromath/hcd/database/ffldb"
 //
 // )
 func Example_basicUsage() {
@@ -109,8 +109,8 @@ func Example_blockStorageAndRetrieval() {
 	// This example assumes the ffldb driver is imported.
 	//
 	// import (
-	// 	"github.com/james-ray/hcd/database2"
-	// 	_ "github.com/james-ray/hcd/database/ffldb"
+	// 	"github.com/iromath/hcd/database2"
+	// 	_ "github.com/iromath/hcd/database/ffldb"
 	// )
 
 	// Create a database and schedule it to be closed and removed on exit.
