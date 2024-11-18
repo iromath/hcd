@@ -2,7 +2,7 @@ package crypto
 
 import (
 	"fmt"
-	_ "github.com/james-ray/hcd/chaincfg/chainec"
+	_ "github.com/iromath/hcd/chaincfg/chainec"
 	"testing"
 )
 
