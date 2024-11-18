@@ -2,7 +2,7 @@ package crypto
 
 import (
 	"crypto/ecdsa"
-	"github.com/james-ray/hcd/chaincfg/chainec"
+	"github.com/iromath/hcd/chaincfg/chainec"
 	"math/big"
 )
 
