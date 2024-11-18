@@ -10,7 +10,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/james-ray/hcd/txscript"
+	"github.com/iromath/hcd/txscript"
 )
 
 // TestScriptBuilderAddOp tests that pushing opcodes to a script via the
