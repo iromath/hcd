@@ -11,10 +11,10 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/james-ray/hcd/blockchain"
-	"github.com/james-ray/hcd/chaincfg"
-	"github.com/james-ray/hcd/chaincfg/chainhash"
-	"github.com/james-ray/hcd/database"
+	"github.com/iromath/hcd/blockchain"
+	"github.com/iromath/hcd/chaincfg"
+	"github.com/iromath/hcd/chaincfg/chainhash"
+	"github.com/iromath/hcd/database"
 )
 
 const blockDbNamePrefix = "blocks"
