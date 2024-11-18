@@ -4,9 +4,9 @@ import (
 	"crypto/rand"
 	"io"
 
-	"github.com/HCashOrg/bliss"
-	"github.com/HCashOrg/bliss/poly"
-	"github.com/HCashOrg/bliss/sampler"
+	"github.com/iromath/bliss"
+	"github.com/iromath/bliss/poly"
+	"github.com/iromath/bliss/sampler"
 	hccrypto "github.com/iromath/hcd/crypto"
 )
 
