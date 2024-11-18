@@ -13,12 +13,12 @@ import (
 	"sync"
 	"time"
 
-	"github.com/james-ray/hcd/blockchain"
-	"github.com/james-ray/hcd/blockchain/indexers"
-	"github.com/james-ray/hcd/chaincfg/chainhash"
-	"github.com/james-ray/hcd/database"
-	"github.com/james-ray/hcd/hcutil"
-	"github.com/james-ray/hcd/wire"
+	"github.com/iromath/hcd/blockchain"
+	"github.com/iromath/hcd/blockchain/indexers"
+	"github.com/iromath/hcd/chaincfg/chainhash"
+	"github.com/iromath/hcd/database"
+	"github.com/iromath/hcd/hcutil"
+	"github.com/iromath/hcd/wire"
 )
 
 var zeroHash = chainhash.Hash{}
