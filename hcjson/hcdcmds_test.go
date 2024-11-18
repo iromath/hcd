@@ -12,7 +12,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/james-ray/hcd/hcjson"
+	"github.com/iromath/hcd/hcjson"
 )
 
 // TestBtcdCmds tests all of the btcd extended commands marshal and unmarshal
