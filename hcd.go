@@ -16,8 +16,8 @@ import (
 	"runtime/pprof"
 	"time"
 
-	"github.com/james-ray/hcd/blockchain/indexers"
-	"github.com/james-ray/hcd/limits"
+	"github.com/iromath/hcd/blockchain/indexers"
+	"github.com/iromath/hcd/limits"
 )
 
 var cfg *config
