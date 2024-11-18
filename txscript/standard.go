@@ -11,11 +11,11 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/james-ray/hcd/chaincfg"
-	"github.com/james-ray/hcd/chaincfg/chainec"
-	"github.com/james-ray/hcd/chaincfg/chainhash"
-	bs "github.com/james-ray/hcd/crypto/bliss"
-	"github.com/james-ray/hcd/hcutil"
+	"github.com/iromath/hcd/chaincfg"
+	"github.com/iromath/hcd/chaincfg/chainec"
+	"github.com/iromath/hcd/chaincfg/chainhash"
+	bs "github.com/iromath/hcd/crypto/bliss"
+	"github.com/iromath/hcd/hcutil"
 )
 
 const (
