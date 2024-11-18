@@ -16,8 +16,8 @@ import (
 	"runtime/debug"
 	"testing"
 
-	"github.com/james-ray/hcd/chaincfg"
-	"github.com/james-ray/hcd/rpctest"
+	"github.com/iromath/hcd/chaincfg"
+	"github.com/iromath/hcd/rpctest"
 )
 
 func testGetBestBlock(r *rpctest.Harness, t *testing.T) {
