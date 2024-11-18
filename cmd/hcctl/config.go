@@ -17,8 +17,8 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/james-ray/hcd/hcjson"
-	"github.com/james-ray/hcd/hcutil"
+	"github.com/iromath/hcd/hcjson"
+	"github.com/iromath/hcd/hcutil"
 
 	flags "github.com/jessevdk/go-flags"
 )
