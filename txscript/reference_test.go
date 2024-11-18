@@ -16,9 +16,9 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/james-ray/hcd/chaincfg/chainhash"
-	"github.com/james-ray/hcd/hcutil"
-	"github.com/james-ray/hcd/wire"
+	"github.com/iromath/hcd/chaincfg/chainhash"
+	"github.com/iromath/hcd/hcutil"
+	"github.com/iromath/hcd/wire"
 )
 
 // testName returns a descriptive test name for the given reference test data.
