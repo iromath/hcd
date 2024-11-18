@@ -11,7 +11,7 @@ import (
 	"sort"
 	"testing"
 
-	"github.com/james-ray/hcd/hcjson"
+	"github.com/iromath/hcd/hcjson"
 )
 
 // TestUsageFlagStringer tests the stringized output for the UsageFlag type.
