@@ -2,7 +2,7 @@ chaincfg
 ========
 
 [![ISC License](http://img.shields.io/badge/license-ISC-blue.svg)](http://copyfree.org)
-[![GoDoc](https://img.shields.io/badge/godoc-reference-blue.svg)](http://godoc.org/github.com/james-ray/hcd/chaincfg)
+[![GoDoc](https://img.shields.io/badge/godoc-reference-blue.svg)](http://godoc.org/github.com/iromath/hcd/chaincfg)
 
 Package chaincfg defines chain configuration parameters for the three standard
 Hcd networks and provides the ability for callers to define their own custom
@@ -23,8 +23,8 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/james-ray/hcd/hcutil"
-	"github.com/james-ray/hcd/chaincfg"
+	"github.com/iromath/hcd/hcutil"
+	"github.com/iromath/hcd/chaincfg"
 )
 
 var testnet = flag.Bool("testnet", false, "operate on the testnet Hcd network")
@@ -55,7 +55,7 @@ func main() {
 ## Installation and Updating
 
 ```bash
-$ go get -u github.com/james-ray/hcd/chaincfg
+$ go get -u github.com/iromath/hcd/chaincfg
 ```
 
 ## License
