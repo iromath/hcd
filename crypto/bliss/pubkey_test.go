@@ -3,8 +3,8 @@ package bliss
 import (
 	"bytes"
 	"crypto/rand"
-	_ "github.com/james-ray/hcd/chaincfg/chainec"
-	_ "github.com/james-ray/hcd/crypto"
+	_ "github.com/iromath/hcd/chaincfg/chainec"
+	_ "github.com/iromath/hcd/crypto"
 	"testing"
 )
 
