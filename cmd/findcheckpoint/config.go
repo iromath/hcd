@@ -11,11 +11,11 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/james-ray/hcd/chaincfg"
-	"github.com/james-ray/hcd/database"
-	_ "github.com/james-ray/hcd/database/ffldb"
-	"github.com/james-ray/hcd/hcutil"
-	"github.com/james-ray/hcd/wire"
+	"github.com/iromath/hcd/chaincfg"
+	"github.com/iromath/hcd/database"
+	_ "github.com/iromath/hcd/database/ffldb"
+	"github.com/iromath/hcd/hcutil"
+	"github.com/iromath/hcd/wire"
 	flags "github.com/jessevdk/go-flags"
 )
 
