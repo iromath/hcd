@@ -10,8 +10,8 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/james-ray/hcd/chaincfg/chainec"
-	"github.com/james-ray/hcd/wire"
+	"github.com/iromath/hcd/chaincfg/chainec"
+	"github.com/iromath/hcd/wire"
 )
 
 // ScriptFlags is a bitmask defining additional operations or tests that will be
