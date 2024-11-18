@@ -3,8 +3,8 @@ package bliss
 import (
 	"io"
 
-	"github.com/HCashOrg/bliss/poly"
-	hccrypto "github.com/james-ray/hcd/crypto"
+	"github.com/iromath/bliss/poly"
+	hccrypto "github.com/iromath/crypto"
 )
 
 type DSA interface {
