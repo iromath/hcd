@@ -14,13 +14,13 @@ import (
 	"sync"
 	"time"
 
-	"github.com/james-ray/hcd/blockchain/stake"
-	"github.com/james-ray/hcd/chaincfg"
-	"github.com/james-ray/hcd/chaincfg/chainhash"
-	"github.com/james-ray/hcd/database"
-	"github.com/james-ray/hcd/hcutil"
-	"github.com/james-ray/hcd/txscript"
-	"github.com/james-ray/hcd/wire"
+	"github.com/iromath/hcd/blockchain/stake"
+	"github.com/iromath/hcd/chaincfg"
+	"github.com/iromath/hcd/chaincfg/chainhash"
+	"github.com/iromath/hcd/database"
+	"github.com/iromath/hcd/hcutil"
+	"github.com/iromath/hcd/txscript"
+	"github.com/iromath/hcd/wire"
 )
 
 const (
