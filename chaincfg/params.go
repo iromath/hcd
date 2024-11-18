@@ -14,8 +14,8 @@ import (
 	"math/big"
 	"time"
 
-	"github.com/james-ray/hcd/chaincfg/chainhash"
-	"github.com/james-ray/hcd/wire"
+	"github.com/iromath/hcd/chaincfg/chainhash"
+	"github.com/iromath/hcd/wire"
 )
 
 // These variables are the chain proof-of-work limit parameters for each default
