@@ -9,8 +9,8 @@ package chaincfg
 import (
 	"time"
 
-	"github.com/james-ray/hcd/chaincfg/chainhash"
-	"github.com/james-ray/hcd/wire"
+	"github.com/iromath/hcd/chaincfg/chainhash"
+	"github.com/iromath/hcd/wire"
 )
 
 // MainNet ------------------------------------------------------------------------
