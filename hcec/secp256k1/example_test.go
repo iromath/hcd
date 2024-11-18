@@ -10,8 +10,8 @@ import (
 	"encoding/hex"
 	"fmt"
 
-	"github.com/james-ray/hcd/chaincfg/chainhash"
-	"github.com/james-ray/hcd/hcec/secp256k1"
+	"github.com/iromath/hcd/chaincfg/chainhash"
+	"github.com/iromath/hcd/hcec/secp256k1"
 )
 
 // This example demonstrates signing a message with a secp256k1 private key that
