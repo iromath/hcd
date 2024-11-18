@@ -20,7 +20,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/james-ray/hcd/hcec/secp256k1"
+	"github.com/iromath/hcd/hcec/secp256k1"
 )
 
 func main() {
