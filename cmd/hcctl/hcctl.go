@@ -10,7 +10,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/james-ray/hcd/hcjson"
+	"github.com/iromath/hcd/hcjson"
 )
 
 const (
