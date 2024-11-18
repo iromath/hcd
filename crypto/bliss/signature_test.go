@@ -3,9 +3,9 @@ package bliss
 import (
 	"bytes"
 	"crypto/rand"
-	"github.com/james-ray/hcd/chaincfg/chainec"
-	_ "github.com/james-ray/hcd/chaincfg/chainec"
-	_ "github.com/james-ray/hcd/crypto"
+	"github.com/iromath/hcd/chaincfg/chainec"
+	_ "github.com/iromath/hcd/chaincfg/chainec"
+	_ "github.com/iromath/hcd/crypto"
 	"golang.org/x/crypto/sha3"
 	"testing"
 )
