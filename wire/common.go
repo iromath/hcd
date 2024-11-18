@@ -14,7 +14,7 @@ import (
 	"math"
 	"time"
 
-	"github.com/james-ray/hcd/chaincfg/chainhash"
+	"github.com/iromath/hcd/chaincfg/chainhash"
 )
 
 const (
