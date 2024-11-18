@@ -24,12 +24,12 @@ import (
 
 	"github.com/btcsuite/btclog"
 	"github.com/btcsuite/go-socks/socks"
-	"github.com/james-ray/hcd/connmgr"
-	"github.com/james-ray/hcd/database"
-	_ "github.com/james-ray/hcd/database/ffldb"
-	"github.com/james-ray/hcd/hcutil"
-	"github.com/james-ray/hcd/mempool"
-	"github.com/james-ray/hcd/sampleconfig"
+	"github.com/iromath/hcd/connmgr"
+	"github.com/iromath/hcd/database"
+	_ "github.com/iromath/hcd/database/ffldb"
+	"github.com/iromath/hcd/hcutil"
+	"github.com/iromath/hcd/mempool"
+	"github.com/iromath/hcd/sampleconfig"
 	flags "github.com/jessevdk/go-flags"
 )
 
