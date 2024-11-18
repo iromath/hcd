@@ -10,7 +10,7 @@ import (
 	"net"
 	"net/http"
 
-	"github.com/james-ray/hcd/hcjson"
+	"github.com/iromath/hcd/hcjson"
 
 	"github.com/btcsuite/go-socks/socks"
 )
