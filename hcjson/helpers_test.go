@@ -10,7 +10,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/james-ray/hcd/hcjson"
+	"github.com/iromath/hcd/hcjson"
 )
 
 // TestHelpers tests the various helper functions which create pointers to
