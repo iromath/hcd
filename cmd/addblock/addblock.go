@@ -12,10 +12,10 @@ import (
 	"runtime"
 
 	"github.com/btcsuite/btclog"
-	"github.com/james-ray/hcd/blockchain"
-	"github.com/james-ray/hcd/blockchain/indexers"
-	"github.com/james-ray/hcd/database"
-	"github.com/james-ray/hcd/limits"
+	"github.com/iromath/hcd/blockchain"
+	"github.com/iromath/hcd/blockchain/indexers"
+	"github.com/iromath/hcd/database"
+	"github.com/iromath/hcd/limits"
 )
 
 const (
