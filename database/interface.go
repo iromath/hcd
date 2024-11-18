@@ -9,8 +9,8 @@
 package database
 
 import (
-	"github.com/james-ray/hcd/chaincfg/chainhash"
-	"github.com/james-ray/hcd/hcutil"
+	"github.com/iromath/hcd/chaincfg/chainhash"
+	"github.com/iromath/hcd/hcutil"
 )
 
 // Cursor represents a cursor over key/value pairs and nested buckets of a
