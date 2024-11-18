@@ -11,7 +11,7 @@ import (
 	"math/rand"
 	"testing"
 
-	"github.com/james-ray/hcd/blockchain/stake"
+	"github.com/iromath/hcd/blockchain/stake"
 )
 
 // TestStakeTxFeePrioHeap tests the priority heaps including the stake types for
