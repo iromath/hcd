@@ -12,7 +12,7 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/james-ray/hcd/wire"
+	"github.com/iromath/hcd/wire"
 )
 
 // mruInventoryMap provides a concurrency safe map that is limited to a maximum
