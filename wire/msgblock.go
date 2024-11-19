@@ -11,7 +11,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/james-ray/hcd/chaincfg/chainhash"
+	"github.com/iromath/hcd/chaincfg/chainhash"
 )
 
 // defaultTransactionAlloc is the default size used for the backing array
