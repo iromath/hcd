@@ -12,10 +12,10 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/james-ray/hcd/chaincfg"
-	"github.com/james-ray/hcd/chaincfg/chainec"
-	"github.com/james-ray/hcd/hcutil"
-	"github.com/james-ray/hcd/txscript"
+	"github.com/iromath/hcd/chaincfg"
+	"github.com/iromath/hcd/chaincfg/chainec"
+	"github.com/iromath/hcd/hcutil"
+	"github.com/iromath/hcd/txscript"
 )
 
 // decodeHex decodes the passed hex string and returns the resulting bytes.  It
