@@ -12,12 +12,12 @@ import (
 	"testing"
 	"time"
 
-	"github.com/james-ray/hcd/chaincfg"
-	"github.com/james-ray/hcd/chaincfg/chainhash"
-	"github.com/james-ray/hcd/hcjson"
-	"github.com/james-ray/hcd/hcutil"
-	"github.com/james-ray/hcd/txscript"
-	"github.com/james-ray/hcd/wire"
+	"github.com/iromath/hcd/chaincfg"
+	"github.com/iromath/hcd/chaincfg/chainhash"
+	"github.com/iromath/hcd/hcjson"
+	"github.com/iromath/hcd/hcutil"
+	"github.com/iromath/hcd/txscript"
+	"github.com/iromath/hcd/wire"
 )
 
 const (
