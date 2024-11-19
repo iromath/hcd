@@ -11,8 +11,8 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/james-ray/hcd/chaincfg/chainhash"
-	"github.com/james-ray/hcd/wire"
+	"github.com/iromath/hcd/chaincfg/chainhash"
+	"github.com/iromath/hcd/wire"
 )
 
 // OutOfRangeError describes an error due to accessing an element that is out
