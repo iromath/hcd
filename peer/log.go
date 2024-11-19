@@ -11,9 +11,9 @@ import (
 	"time"
 
 	"github.com/btcsuite/btclog"
-	"github.com/james-ray/hcd/chaincfg/chainhash"
-	"github.com/james-ray/hcd/txscript"
-	"github.com/james-ray/hcd/wire"
+	"github.com/iromath/hcd/chaincfg/chainhash"
+	"github.com/iromath/hcd/txscript"
+	"github.com/iromath/hcd/wire"
 )
 
 const (
