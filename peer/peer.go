@@ -21,10 +21,10 @@ import (
 
 	"github.com/btcsuite/go-socks/socks"
 	"github.com/davecgh/go-spew/spew"
-	"github.com/james-ray/hcd/blockchain"
-	"github.com/james-ray/hcd/chaincfg"
-	"github.com/james-ray/hcd/chaincfg/chainhash"
-	"github.com/james-ray/hcd/wire"
+	"github.com/iromath/hcd/blockchain"
+	"github.com/iromath/hcd/chaincfg"
+	"github.com/iromath/hcd/chaincfg/chainhash"
+	"github.com/iromath/hcd/wire"
 )
 
 const (
