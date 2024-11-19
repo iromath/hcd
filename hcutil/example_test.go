@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"math"
 
-	"github.com/james-ray/hcd/hcutil"
+	"github.com/iromath/hcd/hcutil"
 )
 
 func ExampleAmount() {
