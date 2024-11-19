@@ -13,10 +13,10 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/james-ray/hcd/chaincfg"
-	"github.com/james-ray/hcd/chaincfg/chainec"
-	"github.com/james-ray/hcd/hcutil"
-	"github.com/james-ray/hcd/wire"
+	"github.com/iromath/hcd/chaincfg"
+	"github.com/iromath/hcd/chaincfg/chainec"
+	"github.com/iromath/hcd/hcutil"
+	"github.com/iromath/hcd/wire"
 	"golang.org/x/crypto/ripemd160"
 )
 
