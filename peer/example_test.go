@@ -10,9 +10,9 @@ import (
 	"net"
 	"time"
 
-	"github.com/james-ray/hcd/chaincfg"
-	"github.com/james-ray/hcd/peer"
-	"github.com/james-ray/hcd/wire"
+	"github.com/iromath/hcd/chaincfg"
+	"github.com/iromath/hcd/peer"
+	"github.com/iromath/hcd/wire"
 )
 
 // mockRemotePeer creates a basic inbound peer listening on the simnet port for
