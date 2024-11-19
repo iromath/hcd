@@ -10,11 +10,11 @@ import (
 	"bytes"
 	"errors"
 
-	"github.com/james-ray/hcd/chaincfg"
-	"github.com/james-ray/hcd/chaincfg/chainec"
-	"github.com/james-ray/hcd/chaincfg/chainhash"
-	"github.com/james-ray/hcd/crypto/bliss"
-	"github.com/james-ray/hcd/hcutil/base58"
+	"github.com/iromath/hcd/chaincfg"
+	"github.com/iromath/hcd/chaincfg/chainec"
+	"github.com/iromath/hcd/chaincfg/chainhash"
+	"github.com/iromath/hcd/crypto/bliss"
+	"github.com/iromath/hcd/hcutil/base58"
 )
 
 // ErrMalformedPrivateKey describes an error where a WIF-encoded private
