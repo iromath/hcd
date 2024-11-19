@@ -10,8 +10,8 @@ import (
 	"reflect"
 	"time"
 
-	"github.com/james-ray/hcd/hcjson"
-	hcrpcclient "github.com/james-ray/hcrpcclient"
+	"github.com/iromath/hcd/hcjson"
+	hcrpcclient "github.com/iromath/hcrpcclient"
 )
 
 // JoinType is an enum representing a particular type of "node join". A node
