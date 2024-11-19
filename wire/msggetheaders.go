@@ -10,7 +10,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/james-ray/hcd/chaincfg/chainhash"
+	"github.com/iromath/hcd/chaincfg/chainhash"
 )
 
 // MsgGetHeaders implements the Message interface and represents a hcd
