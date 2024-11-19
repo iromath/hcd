@@ -4,7 +4,7 @@ import (
 	"crypto/rand"
 
 	"github.com/iromath/bliss"
-	"github.com/iromath/bliss/sampler"
+	"github.com/iromath/bliss/tree/master/sampler"
 	hxcrypto "github.com/iromath/hcd/crypto"
 )
 
