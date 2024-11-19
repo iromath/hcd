@@ -9,8 +9,8 @@ package hcutil_test
 import (
 	"testing"
 
-	"github.com/james-ray/hcd/chaincfg"
-	"github.com/james-ray/hcd/chaincfg/chainec"
+	"github.com/iromath/hcd/chaincfg"
+	"github.com/iromath/hcd/chaincfg/chainec"
 )
 
 // TestEncodeDecodeWIF tests encode and decode wallet import format
