@@ -15,7 +15,7 @@ import (
 	"testing"
 
 	"github.com/davecgh/go-spew/spew"
-	"github.com/james-ray/hcd/chaincfg/chainhash"
+	"github.com/iromath/hcd/chaincfg/chainhash"
 )
 
 // mainNetGenesisHash is the hash of the first block in the block chain for the
