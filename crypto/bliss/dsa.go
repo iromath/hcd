@@ -3,7 +3,7 @@ package bliss
 import (
 	"io"
 
-	"github.com/iromath/bliss/poly"
+	"github.com/iromath/bliss/tree/master/poly"
 	hccrypto "github.com/iromath/hcd/crypto"
 )
 
