@@ -20,11 +20,11 @@ import (
 	"testing"
 	"time"
 
-	"github.com/james-ray/hcd/chaincfg"
-	"github.com/james-ray/hcd/chaincfg/chainhash"
-	"github.com/james-ray/hcd/hcutil"
-	"github.com/james-ray/hcd/wire"
-	hcrpcclient "github.com/james-ray/hcrpcclient"
+	"github.com/iromath/hcd/chaincfg"
+	"github.com/iromath/hcd/chaincfg/chainhash"
+	"github.com/iromath/hcd/hcutil"
+	"github.com/iromath/hcd/wire"
+	hcrpcclient "github.com/iromath/hcrpcclient"
 )
 
 const (
