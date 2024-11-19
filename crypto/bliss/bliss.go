@@ -5,8 +5,8 @@ import (
 	"io"
 
 	"github.com/iromath/bliss"
-	"github.com/iromath/bliss/poly"
-	"github.com/iromath/bliss/sampler"
+	"github.com/iromath/bliss/tree/master/poly"
+	"github.com/iromath/bliss/tree/master/sampler"
 	hccrypto "github.com/iromath/hcd/crypto"
 )
 
